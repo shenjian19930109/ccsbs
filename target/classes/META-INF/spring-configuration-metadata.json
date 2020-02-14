@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "lettuce",
+      "type": "com.chinamobile.springboot.properties.LettuceProperties",
+      "sourceType": "com.chinamobile.springboot.properties.LettuceProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "lettuce.cluster",
+      "type": "com.chinamobile.springboot.properties.LettuceClusterProperties",
+      "sourceType": "com.chinamobile.springboot.properties.LettuceProperties"
+    },
+    {
+      "name": "lettuce.single",
+      "type": "com.chinamobile.springboot.properties.LettuceSingleProperties",
+      "sourceType": "com.chinamobile.springboot.properties.LettuceProperties"
+    }
+  ],
+  "hints": []
+}

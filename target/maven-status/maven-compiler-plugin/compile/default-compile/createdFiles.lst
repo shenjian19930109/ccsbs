@@ -1,0 +1,6 @@
+com\chinamobile\springboot\properties\LettuceSingleProperties.class
+com\chinamobile\springboot\properties\LettuceProperties.class
+com\chinamobile\springboot\properties\LettuceClusterProperties.class
+com\chinamobile\springboot\RedisCommandLineRunner.class
+com\chinamobile\springboot\autoconfiguration\LettuceAutoConfiguration.class
+META-INF\spring-configuration-metadata.json
